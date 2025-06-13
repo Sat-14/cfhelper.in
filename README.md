@@ -6,9 +6,8 @@
 
 CFHelper is a powerful web application that helps competitive programmers learn from top-rated Codeforces solutions. The tool analyzes accepted submissions, identifies exceptional solutions from high-rated users, and provides valuable insights to improve your problem-solving skills.
 
-![App Screenshot Placeholder](https://img.shields.io/badge/Screenshot-Coming%20Soon-lightgrey)
 
-**Live Demo:** [CFHelper.in](https://cfhelper.in)
+**Check It out Here:** [CFHelper.in](https://cfhelper.in)
 
 ## ✨ Key Features
 
