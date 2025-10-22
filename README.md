@@ -39,7 +39,7 @@ CFHelper is a powerful web application that helps competitive programmers learn 
 - **SSL/TLS**: Secure connection with Let's Encrypt
 - **Systemd**: Service management
 - **Automated Deployment**: Custom deployment scripts
-- **MongoDB**: Caching solution for improved performance
+- **SQL**: Caching solution for improved performance
 
 ## 💡 How It Works
 
