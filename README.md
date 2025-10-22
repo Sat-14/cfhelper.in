@@ -23,7 +23,7 @@ CFHelper is a powerful web application that helps competitive programmers learn 
 
 ### Backend
 - **Django**: Python web framework for the application core
-- **MongoDB**: For caching API responses to improve performance
+- **SQL**: For caching API responses to improve performance
 - **Python**: Core language for backend development
 - **Codeforces API**: Integration for fetching submission data
 - **Gunicorn**: WSGI HTTP Server
