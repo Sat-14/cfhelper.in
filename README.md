@@ -17,7 +17,7 @@ CFHelper is a powerful web application that helps competitive programmers learn 
 - **High-Rated User Focus**: Prioritizes solutions from top-rated competitive programmers
 - **Exceptional Solution Detection**: Automatically identifies submissions with outstanding performance
 - **Responsive UI**: Modern, intuitive interface with dark theme and dynamic elements
-- **Fast Performance**: MongoDB caching for quick repeat analysis of popular problems
+- **Fast Performance**: SQL caching for quick repeat analysis of popular problems
 
 ## 🛠️ Tech Stack
 
